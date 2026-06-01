@@ -1,9 +1,9 @@
 # Data-Driven Marketing Operations (MarOps) Engine
 
 ## 📌 Executive Summary
-This repository contains an end-to-end operational framework designed to bridge the gap between data insights and cross-functional project execution. The project simulates a real-world corporate scenario: resolving a customer churn vulnerability for an e-commerce brand. 
+This repository contains an end-to-end operational framework designed to bridge the gap between data insights and cross-functional project execution. The project simulates a real-world corporate scenario: resolving a critical customer churn vulnerability for a growing e-commerce brand. 
 
-By functioning as both the **Data Analyst** and the **Technical Project Manager**, I developed a Python-based data segmentation engine to isolate high-value revenue risks, then built a complete Agile/Scrum playbook to coordinate a cross-functional squad to deploy a targeted retention campaign.
+By functioning as both the **Data Analyst** and the **Technical Project Manager**, I developed a Python-based data segmentation engine to isolate high-value revenue risks, then built a complete Agile/Scrum playbook to coordinate a cross-functional squad (Engineering, Design, and Copywriting) to deploy a targeted retention campaign.
 
 ---
 
