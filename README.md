@@ -1,4 +1,4 @@
-# Data-Driven Marketing Operations (MarOps) Engine
+\# Data-Driven Marketing Operations (MarOps) Engine
 
 ## 📌 Executive Summary
 This repository contains an end-to-end operational framework designed to bridge the gap between data insights and cross-functional project execution. The project simulates a real-world corporate scenario: resolving a critical customer churn vulnerability for a growing e-commerce brand. 
